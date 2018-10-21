@@ -1,6 +1,6 @@
 # Follow me project
 
-##Project Steps:
+## Project Steps:
 1. Setting up your local environment: This is how you will test your initial network design to make sure there are no errors. Otherwise, you can use up your Workspace GPU hours or rack up charges on Amazon Web Services (AWS) with simple debugging instead of training. You will also use your local environment to evaluate your Workspace/AWS trained model with the Follow Me simulator.
 
 2. Brief overview on how the simulator works and its basic controls.
